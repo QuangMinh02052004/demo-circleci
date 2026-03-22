@@ -11,7 +11,7 @@ class CircleCiApplicationTests {
     @Test
     void testBaoLoi() {
         int kq = 1 + 1;
-        assertEquals(3, kq);
+        assertEquals(2, kq);
     }
 
 }
